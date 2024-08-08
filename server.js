@@ -9,7 +9,7 @@ import authRoutes from './routes/authRoute.js'
 import categoryRoutes from './routes/categoryRoutes.js'
 import productRoutes from './routes/productRoutes.js'
 // build path
-const path = require('path')
+import path from 'path'
 
 //configure env
 dotenv.config();
