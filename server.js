@@ -10,6 +10,7 @@ import categoryRoutes from './routes/categoryRoutes.js'
 import productRoutes from './routes/productRoutes.js'
 // build path
 import path from 'path';
+import { URL } from 'url';
 import { fileURLToPath } from 'URL';
 
 //configure env
