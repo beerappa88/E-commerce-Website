@@ -1,4 +1,4 @@
-# eCommerce Web Application
+# E-commerce Web Application
 
 A fully functional eCommerce web application built using the MERN (MongoDB, Express, React, Node.js) stack. The application supports user authentication, product management, payment processing, and more.
 
